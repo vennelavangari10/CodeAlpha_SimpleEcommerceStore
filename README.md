@@ -1,6 +1,6 @@
 # CodeAlpha Simple E-Commerce Store
 
-A full-stack e-commerce web application developed as part of the CodeAlpha Full Stack Development Internship.
+A full-stack e-commerce web application developed as part of the **CodeAlpha Full Stack Development Internship**.
 
 The application allows users to browse products, view product details, manage a shopping cart, register and log in, place orders, and view or cancel their orders.
 
@@ -30,9 +30,9 @@ The application allows users to browse products, view product details, manage a 
 ### Shopping Cart
 
 - Add products to cart
-- Increase quantity
-- Decrease quantity
-- Remove products
+- Increase product quantity
+- Decrease product quantity
+- Remove products from cart
 - Automatic cart total calculation
 - Dynamic cart item count
 - Stock validation
@@ -116,7 +116,6 @@ CodeAlpha_SimpleEcommerceStore/
 │   │   ├── productRoutes.js
 │   │   └── userRoutes.js
 │   │
-│   ├── .env
 │   ├── .gitignore
 │   ├── package.json
 │   ├── package-lock.json
